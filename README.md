@@ -43,7 +43,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-После запуска откройте файл:
+После запуска откроется файл:
 
 ```text
 reports/lendeasy_report.html
